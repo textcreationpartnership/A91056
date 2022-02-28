@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceeds of the Protector (so called) and his Councill against Sir Henry Vane, Knight. A late eminent Member of the Councill of State of the Common-wealth of England: as touching his imprisonment in the Isle of Wight. Together with his testimony delivered in writing to the said Protector, by way of a peculiar addresse to himself, and faithfull advice of an old friend and acquaintance. Faithfully transcribed and attested out of the original copy's, and published by a reall well-wisher to Sions prosperity and Englands liberty.</title>
+            <author>Vane, Henry, Sir, 1612?-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91056</idno>
+            <idno type="STC">Wing P3629</idno>
+            <idno type="STC">Thomason E889_11</idno>
+            <idno type="STC">Thomason E937_2*</idno>
+            <idno type="STC">ESTC R203365</idno>
+            <idno type="EEBO-CITATION">99863337</idno>
+            <idno type="PROQUEST">99863337</idno>
+            <idno type="VID">168512</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168512)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E889[11] or 140:E937[2*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceeds of the Protector (so called) and his Councill against Sir Henry Vane, Knight. A late eminent Member of the Councill of State of the Common-wealth of England: as touching his imprisonment in the Isle of Wight. Together with his testimony delivered in writing to the said Protector, by way of a peculiar addresse to himself, and faithfull advice of an old friend and acquaintance. Faithfully transcribed and attested out of the original copy's, and published by a reall well-wisher to Sions prosperity and Englands liberty.</title>
+                  <author>Vane, Henry, Sir, 1612?-1662.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy E.889[11]: "October 19. 1656"; on Thomason copy E.937[2*]: "Aprill 1 1658"; "1658 Aprill 1.".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vane, Henry, --  Sir, 1612?-1662.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168512:1" rendition="simple:additions"/>
+            <p>The PROCEEDS of the PROTECTOR (ſo called) and his COUNCILL againſt Sir <hi>HENRY VANE,</hi> Knight.</p>
+            <p>
+               <hi>A late Eminent MEMBER of the CO<g ref="char:V">Ʋ</g>NCILL of STATE of the Common-wealth of ENGLAND: As touching his Im<g ref="char:EOLhyphen"/>priſonment in the</hi> Iſle <hi>of</hi> WIGHT.</p>
+            <p>Together with his Teſtimony delivered in writing to the ſaid Prote<g ref="char:EOLhyphen"/>ctor, by way of a peculiar <hi>addreſſe</hi> to himſelf, and faithfull advice of an old Friend and Acquaintance.</p>
+            <p>
+               <hi>Faithfully Tranſcribed and Atteſted out of the Original Copy's,</hi>
+            </p>
+            <p>And publiſhed by a reall Well-wiſher to <hi>SIONS</hi> Proſperity and <hi>ENGLANDS</hi> Liberty.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 29.1.</hi>
+               </bibl>
+               <p>He that being often <hi>Reproved,</hi> hardeneth his <hi>Neek,</hi> ſhall ſudaenly be <hi>deſtroyed,</hi> and that without remedy.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Gal. 2.18.</hi>
+               </bibl>
+               <p>For if I build again the things that I have <hi>deſtroyed,</hi> I make my ſelf a <hi>Tranſgreſſor.</hi>
+               </p>
+            </q>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168512:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THou haſt here a true Narrative of the whole proceedings againſt Sir <hi>Henry Vane</hi> Knight, and his Impriſonment in the Iſle of <hi>Wight.</hi> Occaſion be<g ref="char:EOLhyphen"/>ing taken (as thou wilt find) from his writing and publiſhing a diſcourſe En<g ref="char:EOLhyphen"/>tituled, <hi>An Healing Queſtion,</hi> &amp;c. tending to the Compoſure and <g ref="char:V">Ʋ</g>niting all honeſt mens hearts and ſpirits, who from the firſt beginning of all the Warr all along have been engaged in the <hi>Cauſe</hi> of true Freedome, againſt <hi>Oppreſſion</hi> and <hi>Tyranny,</hi> unto which he was invited by the Declaration for a ſolemn Faſt, ſet forth by thoſe in power, the thirteenth day of <hi>March 1655.</hi> exciting the good people of <hi>England</hi> and <hi>Wales</hi> to wait upon the Lord for light and conviction, profeſſing in the ſight of God and man, a moſt willing mind readily to receive, when convincingly offered by any.</p>
+            <p>This being in ſhort the true ſtate of the Caſe, and falling providentially into my hands, out of duty to my Countrey, and reſpect to that worthy Patriot (who at this day ſo eminently ſuffers for the Cauſe of God, and true Freedome, and that from the hands of thoſe he hath deſerved better meaſure) I have expoſed the whole to publique view, that thereby thou mayeſt be informed of the truth, and the Nation may know what is become of ſo conſiderable a Member, who may deſervedly be a Pattern for all true Engliſh men to immitate, in this Apoſta<g ref="char:EOLhyphen"/>tizing and back-ſliding Age.</p>
+         </div>
+      </front>
+      <body>
+         <div type="summons">
+            <pb n="1" facs="tcp:168512:2"/>
+            <head>The Copy of the Summons for Sir <hi>Henry Vane</hi> Knight his firſt appearance at White-hall.</head>
+            <p>In purſuance of an Order of his Highneſſe and the Councill, you are to attend the Councill on Thurſday the 12. of <hi>Auguſt</hi> next, at 11. of the Clock in the fore-noon, Dated at <hi>White-hall</hi> this 29. <hi>July</hi> 1656.</p>
+            <closer>
+               <signed>Subſcribed by Henry Lawrence <hi>Preſident.</hi>
+               </signed>
+            </closer>
+            <trailer>To Sir <hi>Henry Vane</hi> Knight.</trailer>
+         </div>
+         <div type="answer_to_summons">
+            <head>A true Copy of Sir <hi>Henry Vane</hi> his Anſwer ſent to this Sommons.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>LEaſt my ſilence might be miſ-interpreted upon the laſt Paper, I have received, ſubſcribed (as I ſuppoſe) with your hand, appointing my attendance at <hi>White-hall</hi> the 12. inſtant: I have held my ſelf ob<g ref="char:EOLhyphen"/>liged to returne you this account, that my purpoſe is (God willing) to ſet forward from this place to my Houſe in the <hi>Strand,</hi> the beginning of the next week, which is aſſoon as I can well expect to have a Coach to meet me half way, this very hot ſeaſon for travail, and my own being in no condition to performe ſo long a journey upon ſo ſhort a warning given to.</p>
+            <closer>
+               <dateline>
+                  <hi>Belleaw</hi> 
+                  <date>the 4. <hi>of Auguſt</hi> 1656.</date>
+               </dateline>
+               <signed>Your humble Servant <hi>Hen. Vane.</hi>
+               </signed>
+            </closer>
+            <trailer>To <hi>Henry Lawrence</hi> Eſquire, Preſident of the Councill at <hi>White-hall.</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <head>Sir <hi>Henry Vane</hi>'s Letter to Mr. <hi>Jeſſop</hi> Clerk to the Councill at <hi>White-hall</hi> preſently after his coming to <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>IT being declared by Parliament (as is very well known) that it is againſt the Laws and Liberties of <hi>England,</hi> that any of the people thereof ſhould be commanded by the King (when there was one, to attend him at his pleaſure) but ſuch as are bound thereunto by ſpe<g ref="char:EOLhyphen"/>ciall ſervice (which others therefore are not) It will I hope be per<g ref="char:EOLhyphen"/>mitted me without offence, to claim the ſame priviledge and liberty
+<pb n="2" facs="tcp:168512:3"/>in theſe times, and in the caſe of the Sommons ſent me, wherein I find no cauſe for my appearance expreſſed but <hi>meer will</hi> and pleaſure: Yet in vindication of the innocent, and peacable deportment I live in according to the Laws; I have not refuſed to be upon the place at my Houſe here in the <hi>Strand</hi> ever ſince Thurſday night laſt, as I made known unto you by this Bearer the next Morning. And as ever ſince I have been, ſo I am ſtill ready to appear when I ſhall be ſent for, un<g ref="char:EOLhyphen"/>till the preſſingneſſe of my occaſions (in reference to my Family con<g ref="char:EOLhyphen"/>cerns, which at this time by reaſon of my Fathers Debts are very great, and heavy upon me) ſhall require my attendance upon them in other places of the Nation. All which I held my ſelf obliged to make known unto you in the relation you ſtand in, eſpecially not having heard from you Yeſterday, as I ſuppoſe I might. I am</p>
+            <closer>
+               <dateline>
+                  <hi>Charring-Croſſe Houſe </hi> 
+                  <date>the 20. <hi>Auguſt</hi> 1656.</date>
+               </dateline>
+               <signed>Your Servant <hi>H. V.</hi>
+               </signed>
+            </closer>
+            <trailer>For Mr. <hi>Jeſſop,</hi> Clerk to the Councill at <hi>White-hall.</hi>
+            </trailer>
+         </div>
+         <div type="order_of_council">
+            <head>The firſt Order of the Councill concerning Sir <hi>Hen. Vane</hi> here followeth.</head>
+            <opener>
+               <dateline>
+                  <date>Thurſday, the <hi>21.</hi> of Auguſt <hi>1656.</hi>
+                  </date> At the Councill at <hi>White-hall.</hi>
+               </dateline>
+            </opener>
+            <p>SIr <hi>Henry Vane</hi> having this day appeared before the Councill, and they having taken coſideration of a ſeditious book by him writ<g ref="char:EOLhyphen"/>ten and publiſhed, entituled a <hi>Healing Queſtion propounded and refolved &amp;c.</hi> the ſame tending to the diſturbance of the preſent Government, and the peace of the Common-wealth, Ordered that if Sr. <hi>Henry Vane</hi> ſhall not give good ſecurity in five thouſand pond bond by <hi>Thurſday</hi> next to do nothing to the prejudice of the preſent Government, and the peace of the Common-wealth, he ſhall ſtand committed, and that Or<g ref="char:EOLhyphen"/>ders be drawn up accordingly.</p>
+            <closer>
+               <signed>
+                  <hi>W. Jeſſop</hi> Clerk of the Councill.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Sir <hi>Henry Vane</hi> his Letter to Mr. <hi>Jeſſop</hi> upon the receipt of this Order of the Councill.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>IT is a great quiet to my minde, and ſatisfaction to my conſcience in the ſight of <hi>God</hi> and <hi>man;</hi> to perceive at the firſt entrance into
+<pb n="3" facs="tcp:168512:3"/>my ſufferings, that the <hi>Witneſſe</hi> owned by me, under the title of a <hi>Hea<g ref="char:EOLhyphen"/>ling Queſtion</hi> (when I was at <hi>White-hall</hi> 21. preſent) which aſſerts the Principles, Spirit, and Juſtice of the Cauſe we have profeſſed and fought for in our late Warrs) is now thought fit by thoſe that are in power to have the name given to it of <hi>ſeditious,</hi> eſpecially conſidering that the Healing nature, and great tendency, that cleerly ſhineth forth thorow-out that diſcourſe (to the uniting the whole party of honeſt men in the true publipue intereſt warranted by the Lawes of the Land, and in away of ſafety againſt common danger) doth with its own evi<g ref="char:EOLhyphen"/>dence wipe of the blemiſh of that reproach, with the ſame breath that it is caſton.</p>
+            <p>Nay I can truly ſay, I am very well content to take this as a marke of honour from thoſe that ſent it, and as the recompence of former ſer<g ref="char:EOLhyphen"/>vices, as knowing a better reward is laid up for me in his hands, tho<g ref="char:EOLhyphen"/>rough the wiſedome of whoſe providence, this may be the means pre<g ref="char:EOLhyphen"/>pared to keep me unſpotted, and undefiled from the evills of <hi>theſe back-ſliding times</hi> unto the day of Chriſts appearance, which ſhall be my joy, when my enemies ſhall be aſhamed.</p>
+            <p>Nor can I but obſerve in this proceeding with me, how exactly thoſe that have made this Order do in this (as in many other things at this day) tread in the ſteps of the late king whoſe deſigne being (as is ex<g ref="char:EOLhyphen"/>preſt in the Remonſtrance of the ſtate of the Kingdome 15. <hi>December</hi> 1642.) to ſet the Government free from all reſtraint of Laws concer<g ref="char:EOLhyphen"/>ning our perſons and eſtates, and to render the Monarchy abſolute, did thinke he could have no better means to effect it, than to caſt into oblo<g ref="char:EOLhyphen"/>quie and diſgrace, all thoſe that deſired to preſerve the Laws and Liber<g ref="char:EOLhyphen"/>ties of the Nation, and to mantain Religion in the power of it, under the names of <hi>Puritans, factious</hi> and <hi>ſeditious perſons,</hi> as well knowing that the light of their pinciples and practices, were like to ſtand moſt in the way of bringing to paſſe ſuch an evill deſigne.</p>
+            <p>And truly it is with no ſmall grief, at this time to be lamented, that the <hi>evill, and wreched principles of the miſgovernment,</hi> which the King then aymed to worke out his deſigne by, but could not effect, ſhould now revive, and ſpring up ſo evidently in the hands of men profeſſing godli<g ref="char:EOLhyphen"/>neſſe (to the great prophaning, and reproach of <hi>Gods name</hi>) and arri<g ref="char:EOLhyphen"/>ved at maturity in practice, which former times abhorred to thinke of, and the deſigners themſelves with all their pollicy and power could never reach.</p>
+            <p>This appearing but with too much evidence in my conſcience, when
+<pb n="4" facs="tcp:168512:4"/>the preſent Governours held themſelves obliged to call the people of theſe three Nations unto a day of publique humiliation, and to invite to the giving in of Light and conviction, with a free and open profeſſi<g ref="char:EOLhyphen"/>on of a ready ſubjection of mind thereunto, was a chief motive that in<g ref="char:EOLhyphen"/>duced me to prepare my <hi>Witueſs,</hi> as I did, which being asked for from me by one of the <hi>Councill,</hi> I delivered in writing and it continued in their hands about a Months ſpace, with out any prohibition to Print, &amp; then was put to the Preſſe in the ordinary way of all other bookes, and had the uſuall warrant for the comming forth, and nothing laid to its Charge ever ſince, till (for what reaſon of State I know not) it is now thought meet to be called <hi>ſeditious,</hi> and occaſion is taken thereby to threaten me with <hi>Bonds,</hi> unto which I ſay the will of the Lord be done; through whoſe ſupporting grace I am made not carefull in this matter, and therefore have been willing (without any circumlocution or advantage I might have taken) to own with all readines that <hi>Witneſs</hi> for which the Lord hath given me a heart moſt freely to ſuffer whatſo<g ref="char:EOLhyphen"/>ever he ſhall call me unto, in the faithfull diſcharge of a good conſci<g ref="char:EOLhyphen"/>ence therein. And this being ſaid (as is needfull in my own vindicati<g ref="char:EOLhyphen"/>on) my Anſwer to the <hi>Paper,</hi> that ordereth me to ſtand committed, un<g ref="char:EOLhyphen"/>leſſe I will give ſecurity by Bond, <hi>&amp;c.</hi> and ſo by my own voluntary Act, do that which may blemiſh and render ſuſpect my <hi>innocency,</hi> and the <hi>juſtice</hi> and <hi>Good</hi> of the <hi>Cauſe</hi> I ſuffer for; is this, That my purpoſe is God willing, to give no ſuch Bond, but rather expoſe my ſelf to the commitment mentioned; althoughl muſt ingeniouſly profeſſ, I neither know, nor acknowledge the Authority, which thoſe that have made the Order, do exerciſe over me in this <hi>Caſe:</hi> Nor do I conceive their Votes and Orders have a binding force by the Lawes of the Nation. This is my Anſwer to the Paper I received from you, which I deſire may be accordingly preſented to their view, that ordered my Com<g ref="char:EOLhyphen"/>mitment; my intentions being to make uſe of the little time of liber<g ref="char:EOLhyphen"/>ty, which is remaining to my own diſpoſe for the viſiting of my near Relations in <hi>Kent</hi> where I ſhall be ſure to be heard of, and howe<g ref="char:EOLhyphen"/>ver do propound to my ſelf not above a weeks ſtay, before my return again to my Houſe in the <hi>Strand,</hi> ſo ſubſcribes</p>
+            <closer>
+               <signed>Henry Vane</signed>
+            </closer>
+         </div>
+         <div type="warrant">
+            <pb n="5" facs="tcp:168512:4"/>
+            <head>
+               <hi>A true Coppy of the firſt warrant.</hi> To <hi>Edward Dendy</hi> Eſq. Serjant at Arms attending the Councill, or to his Deputies and every of them.</head>
+            <p>VVHereas upon conſideration of a ſeditious Book written and publiſhed by Sir <hi>Hen. Vane</hi> Knight, Enti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſed <hi>An Healing Queſtion Propounded and Reſolved,</hi> &amp;c. tending to the diſturbance of the Preſent Government and the peace of the Common-wealth. It was Ordered by his Highneſſe and the Councill on the 21. of <hi>Auguſt</hi> laſt, that if he ſhould not give good ſecurity in 5000 pounds Bond by Tweſday then next coming, to do nothing to the prejudice of this preſent Government, or of the peace of the Common-wealth, he ſhould ſtand Committed. And whereas he hath not given ſecurity according to the tenor of that Order, but refuſeth to do the ſame. Theſe are therefore to will and require you forthwith to apprehend, and take into your charge, the body of the ſaid Sir <hi>Henery Vane,</hi> and him to convey in ſafe cuſtody to the Iſle of <hi>Wight,</hi> and there to de<g ref="char:EOLhyphen"/>liver him to the Governour of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Iſland, or to his D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>puty, to be by him diſpoſed of according to the Order of his Highneſſe and the Coun<g ref="char:EOLhyphen"/>cill. Hereof you are not to fail: And for ſo doing this ſhall be your ſufficient Warrant.</p>
+            <closer>
+               <signed>
+                  <hi>Signed in the Name and by Order of his Highneſſe and the Councill</hi> Henry Lawrence <hi>Preſident.</hi>
+               </signed>
+               <dateline>
+                  <hi>Given at</hi> Whit-hall <date> 
+                     <hi>this</hi> 4. <hi>day of</hi> September 1656.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="warrant">
+            <head>A Coppy of the Warrant to the Governour of the Iſle of <hi>Wight</hi> or his Deputy.</head>
+            <p>Whereas upon conſideration of a ſeditious Book written and publiſhed by Sir <hi>Henry Vane</hi> Knight, entituled an <hi>Healing Queſtion Propounded and Re<g ref="char:EOLhyphen"/>ſolved</hi> &amp;c. tending to the diſturbance of the preſent Government and the peace of the Commmonwealth. It was Ordered by his Highneſſe, and the Councill on the <hi>21.</hi> of Aug. laſt, That if he ſhould not give good ſecurity in <hi>5000 l.</hi> Bond by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>weſ<g ref="char:EOLhyphen"/>day then next coming, to do nothing to the prejudice of the preſent Government. or of peace of the Commonwealth, he ſhould ſtand Comitted. And whereas he hath not given ſecurity according to the tenor of that Order, butrefuſes to do the ſame. Theſe are therefore to will and require you, to receive into your Charge from the Bea<g ref="char:EOLhyphen"/>rer hereof, the body of the ſaid <hi>Sir Honry Vane,</hi> and him to ſecure, and keep in ſafe cuſtody in ſuch place within the Iſle of <hi>Wight</hi> under your Command, as you ſhall judge moſt convenient, not ſuffering him to ſpeak with any perſon during
+<pb n="6" facs="tcp:168512:5"/>his abode there, but in the preſence of ſome Officer, and to continue him thus under cuſtody till you ſhall receive other Order; whereof you are not to faile. And for ſo doing this ſhall be your Warrant.</p>
+            <closer>
+               <signed>
+                  <hi>Signed in the name and by Or<g ref="char:EOLhyphen"/>der of his Highneſſe and the Council,</hi> Hen. Lawrence, <hi>Pr.</hi>
+               </signed>
+               <dateline>
+                  <hi>Given at White-hall <date>this fourth day of September, 1656.</date>
+                  </hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>Here followes the TESTIMONY of Sir <hi>HENRY VANE delivered in writing by his own hands.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>HAving ſomething in my mind to ſpeak by way of more peculiar <hi>addreſſe</hi> and concernment to your Lordſhip than the reſt of your company, I have choſen to do it by theſe <hi>lines,</hi> as the Teſtimony which upon this occaſion I deſire to ſpeak before your own conſcience in the ſight of God.</p>
+            <p>The Scripture ſaith, he that will ſave his life ſhall looſe it, and he that will looſe his life for Chriſts ſake and the Goſpell (in faithfull witneſſe bearing) ſhall ſave it; This Word of the Lord is in eſpeciall manner fulfilling amongſt the Saints and people of God at this day, whom the Lord is bringing very eminently upon the ſtage of tryall and ſufferings, and that not onely from open enemies, that ſin in a decla<g ref="char:EOLhyphen"/>red prophane ſpirit, but from equalls and friends that have gone into the Houſe of God in company, and taken ſweet counſell together in all their concern's, but yet come at laſt to hate their Brethren, and caſt them out under a pretence of Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al and glorifying God therein.</p>
+            <p>And to come a little nearer the Caſe in hand, this great Truth is ha<g ref="char:EOLhyphen"/>ſtening a pace to be made good in thoſe principles, that ſpirit, and courſe of action your Lordſhip is found in, and in thoſe which the Lord enables me to own and profeſſe, and is bringing me through his rich grace in ſome weak meaſure, to the practice of, which are to cleave to what is right and good, though power be on the other ſide to oppoſe it.</p>
+            <p>The Meſſuage which in former times you fent me, is in my <hi>Memory ſtill,</hi> it was immediately after the Lord had appeared with you againſt Duke <hi>Hamiltons</hi> Army, when you bid a Friend of mine, tell your Brother
+<pb n="7" facs="tcp:168512:5"/>
+               <hi>Vane</hi> (for ſo you then thought fit to call me) that you were as much unſatisfied with his paſſive and ſuffering principles, as he was with your active; and indeed I muſt crave leave to make you this Reply at this time, that I am as little ſatisfied with your active, and <hi>ſelf-eſta<g ref="char:EOLhyphen"/>bliſhing Principles,</hi> in the lively colours wherein daily they ſhew them<g ref="char:EOLhyphen"/>ſelves, as you are or can be with my <hi>paſſive Ones,</hi> and am willing in thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to joyn iſſue with you, and to begg of the Lord to judge between us and to give the deciſion according <hi>to truth and righteouſneſſe.</hi>
+            </p>
+            <p>And having named <hi>Truth</hi> and <hi>Righteouſneſſe,</hi> ſurely it may but too truly be ſaid, that amongſt us remains nothing but the <hi>Name,</hi> the power and life thereof ſeems to be ceaſed from our land, and is baniſhed from the ſocieties of moſt men; Yet my Lord, it is that whereby the actions and practice of all men are to be ruled, as well of Governors as of the governed. Governours themſelves are neither to be, nor make them<g ref="char:EOLhyphen"/>ſelves more then what in truth and righteouſnes they are and ought to be: When they ſwerve from this rule, they become ſinners and muſt look by tranſgreſſion to fall, as well as the loweſt of the People.</p>
+            <p>That which in truth of fact you were, is viſſible enough to every eye, that is to ſay, under the Legiſlative Authority of the People Repreſen<g ref="char:EOLhyphen"/>ſented in Parliament, duly choſen and rightly conſtituted: you and the Force under your command are the Nations ſtrength, and formed military Power, kept up by a derived Authority from them, at a ſettled Pay to be imployed for the Nations uſe and ſervice, and theirs onely; and over this Military body you are by them placed as the head.</p>
+            <p>This then is the Power, which duly and properly you are, and more than this, I am not ſatisfied in my Conſcience is in Truth and Righte<g ref="char:EOLhyphen"/>ouſneſſe, appertaining unto you; to uſe this power lawfully, is your honour, your duty, your ſafety, as well as their well-fare, and pre<g ref="char:EOLhyphen"/>ſervation, for whom it was raiſed, and is ſtill pay'd. To uſe this un<g ref="char:EOLhyphen"/>lawfully as evidently you doe, when you go about to aſſume and eſta<g ref="char:EOLhyphen"/>bliſh to your ſelfe the Power of your head, and at beſt will but allow them but to ſhare with you in their known Right to the Legiſlative Authority, unto your whom your ſelf, and the Army under your Command acknowledged the whole to be due, when as a ſeale ſet to this their Authority, they cauſed juſtice to be done upon the late King; you then become like that one finner, which <hi>Eccleſ.</hi> 9.19. is ſaid to deſtroy much good, and do forget that wiſdome which teaches, and reſtrains from ſuch unlawfull uſe of force and ſtrength, is better then weapons of war mannaged never ſo ſucceſſefully in a way of deſtroying that
+<pb n="8" facs="tcp:168512:6"/>which is right and good, whatever worldly gain and advantage in o<g ref="char:EOLhyphen"/>ther reſpects to be obtained thereby.</p>
+            <p>And although your own Conſcience cannot but conſent to the truth of what is here told you, in the name and fear of the Lord, yet being ſtrong and truſting to the power of your ſword, which is Fleſh and not Spirit, is man and not God, your heart is lifted up, if you ſpeedily re<g ref="char:EOLhyphen"/>pent not, unto your deſtruction; for you are not able to hear the re<g ref="char:EOLhyphen"/>proofs of the Lord, nor the faithfull witneſſe and advice of his Saints and people that in love and true friendſhip diſſwade you from going on in this way, as foreſeeing and foretelling your ruine and deſtruction therein: And the fears they have, that you will not ruine alone, foraſ<g ref="char:EOLhyphen"/>much as their outward ſafety &amp; welfare is ſo very far included in yours.</p>
+            <p>Nor doth the Witneſſe of the Saints which they bear againſt you reſt here; but it is too evident to thoſe of them, that have a ſpirit of diſcer<g ref="char:EOLhyphen"/>ning, that in reference as well to Chriſt your heavenly head, as to the good people of this Nation in Parliament Aſſembled, and rightly Conſtituted who were, and ought to be your earthly Head; you lift up your heel, and harden your ſelf every day more than other, in a fixed Reſolution not to become ſubject, as is your duty, nor to hold and keep your ſelf in your due ſtation alloted to you in the Body; but are ayming at the Throne in ſpirituals as well as Temporals; and to ſet up your ſelf in a capacity of not holding your head either in the one conſideration or the other.</p>
+            <p>And if this evill be in you at the bottome, be aſſured the Lord will ſpeedily lay it open as before the Sun, and none of the webbs you are weaving will prove garments to cover your nakedneſſe; neither will your agreements or convenants with death ſtand; even thoſe pollitick contrivances and conjunctions with thoſe that are the enemies, whe<g ref="char:EOLhyphen"/>ther open or ſecret, againſt the Spirit of life, and the workings and manifeſtations thereof, in the ſuffering Saints and annointed ones of the Lord Jeſus, whom the Lord is about to own for his wiſedome in the midſt of the Earth, unto which excellent Spirit that ſhall be found in thoſe holy ones of the Lord, not onely this Nations wiſedome in their very ſupream Aſſembly, but the Ruling powers of the whole world ſhall yield ſubjection, and think it their glory to become ſub<g ref="char:EOLhyphen"/>ſervient to the bringing forth of the new Heavens and that new Earth, wherein dwells righteouſneſſe and truth; this is the foundation Stone, Elect and precious, which through faith is ſeen to be laid already in our Sion at this day, which thoſe that believe, and make not haſt, ſhall
+<pb n="9" facs="tcp:168512:6"/>arrive to the experience of, and ſhall diſcerne that this Stone is in cut<g ref="char:EOLhyphen"/>ting out amongſt us without hands, to its becoming a great Moun<g ref="char:EOLhyphen"/>tain, and filling the whole Earth.</p>
+            <p>Take then in good part before it be too late, this faithfull warning and following advice of an ancient friend, but is now thought fit to be uſed and dealt with as an Enemy.</p>
+            <p>Break off timely your ſinnes by repentance, do judgement, execute juſtice, and walk humbly before the Lord; yea, rent your hearts and not your garments, for thoſe are the faſts the Lord hath choſen, break every yoak, and let the oppreſſed go free; in one word, proceed no fur<g ref="char:EOLhyphen"/>ther in lifting up your ſelf againſt the Lord of Heaven, but inſtead of cauſing the veſſells of his houſe, even his moſt precious Saints to be brought before you (as you do daily) for to exerciſe publique ſcorn and tryumph over them, ſee that your true intereſt lies with them and in them, as well now as hertofore, and endeavour to recover their hearts to you, and their prayers for you, leaſt your God in whoſe hands your breath is, and whoſe are all your waies, whom you have not cared to glorify as you ought) ſhould ariſe ſuddenly and teare you in pieces, by the <hi>immediate</hi> ſtroak of his <hi>own vengeance,</hi> and there be none to deliver, even ſuch of you who live in pleaſure on the Earth, and have been <hi>wanton,</hi> and nouriſhed your ſelves as in a day of ſlaugh<g ref="char:EOLhyphen"/>ter, who have condemned, and in your hearts killed the <hi>juſt One,</hi> and he doth not reſiſt you; But behold the Judge ſtandeth at the door.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
